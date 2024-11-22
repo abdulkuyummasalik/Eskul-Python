@@ -1,0 +1,101 @@
+no,nama,kelas,nilai_matematika,nilai_bahasa_indonesia,nilai_ipa,nilai_bahasa_inggris,nilai_rata_rata,keterangan
+1,Budi,10C,73,,87,,80.0,Lulus
+2,Intan,10A,,81,,87,84.0,Lulus
+3,Lala,10C,72,82,,,77.0,Lulus
+4,Andi,10B,,,,72,72.0,Lulus
+5,Rara,10A,78,70,,71,73.0,Lulus
+6,Mamat,10B,97,,93,,95.0,Lulus dengan predikat sangat baik
+7,Cici,10A,,,,,,Lulus
+8,Andi,10B,80,93,,,86.5,Lulus
+9,Eni,10C,,,,75,75.0,Lulus
+10,Galih,10A,75,76,,,75.5,Lulus
+11,Lala,10B,,,,98,98.0,Lulus dengan predikat sangat baik
+12,Eni,10B,82,90,89,90,87.75,Lulus
+13,Fani,10C,78,,88,,83.0,Lulus
+14,Cici,10A,,,96,79,87.5,Lulus
+15,Dedi,10C,72,80,,,76.0,Lulus
+16,Nina,10C,,,,76,76.0,Lulus
+17,Fani,10C,100,,,88,94.0,Lulus dengan predikat sangat baik
+18,Andi,10B,,,,99,99.0,Lulus dengan predikat sangat baik
+19,Qori,10C,,89,77,75,80.33333333333333,Lulus
+20,Budi,10B,71,,,,71.0,Lulus
+21,Cici,10B,,,,95,95.0,Lulus dengan predikat sangat baik
+22,Mamat,10B,85,,91,75,83.66666666666667,Lulus
+23,Cici,10B,,,,75,75.0,Lulus
+24,Joko,10B,,73,70,98,80.33333333333333,Lulus
+25,Mamat,10A,96,,,85,90.5,Lulus dengan predikat sangat baik
+26,Kartika,10C,79,78,,,78.5,Lulus
+27,Hani,10C,,,90,72,81.0,Lulus
+28,Galih,10A,,87,80,,83.5,Lulus
+29,Galih,10A,,,72,100,86.0,Lulus
+30,Eni,10C,,,,92,92.0,Lulus dengan predikat sangat baik
+31,Lala,10A,,96,85,,90.5,Lulus dengan predikat sangat baik
+32,Galih,10C,75,92,,87,84.66666666666667,Lulus
+33,Eni,10C,,80,91,98,89.66666666666667,Lulus
+34,Dedi,10A,95,,,,95.0,Lulus dengan predikat sangat baik
+35,Nina,10A,,100,,73,86.5,Lulus
+36,Nina,10C,92,86,,,89.0,Lulus
+37,Rara,10A,,98,,,98.0,Lulus dengan predikat sangat baik
+38,Mamat,10B,,,99,,99.0,Lulus dengan predikat sangat baik
+39,Nina,10A,,,79,,79.0,Lulus
+40,Santi,10C,,76,,,76.0,Lulus
+41,Cici,10C,72,,94,,83.0,Lulus
+42,Cici,10B,88,91,78,,85.66666666666667,Lulus
+43,Lala,10C,,96,,,96.0,Lulus dengan predikat sangat baik
+44,Kartika,10B,84,,74,94,84.0,Lulus
+45,Eni,10A,76,,87,94,85.66666666666667,Lulus
+46,Mamat,10A,,,86,,86.0,Lulus
+47,Qori,10A,85,81,79,91,84.0,Lulus
+48,Budi,10C,74,100,,79,84.33333333333333,Lulus
+49,Dedi,10B,,82,81,,81.5,Lulus
+50,Dedi,10A,97,,100,,98.5,Lulus dengan predikat sangat baik
+51,Ogi,10C,75,91,73,89,82.0,Lulus
+52,Mamat,10B,93,82,94,,89.66666666666667,Lulus
+53,Kartika,10C,73,97,71,,80.33333333333333,Lulus
+54,Intan,10A,71,,74,88,77.66666666666667,Lulus
+55,Hani,10C,,,93,,93.0,Lulus dengan predikat sangat baik
+56,Qori,10C,88,,,91,89.5,Lulus
+57,Putri,10C,91,,,,91.0,Lulus dengan predikat sangat baik
+58,Hani,10B,81,70,,96,82.33333333333333,Lulus
+59,Budi,10B,,,92,76,84.0,Lulus
+60,Fani,10B,,93,,81,87.0,Lulus
+61,Eni,10A,80,83,79,79,80.25,Lulus
+62,Putri,10C,,,,,,Lulus
+63,Joko,10C,,92,87,100,93.0,Lulus dengan predikat sangat baik
+64,Galih,10C,86,,,88,87.0,Lulus
+65,Rara,10C,80,,,,80.0,Lulus
+66,Andi,10C,82,,,,82.0,Lulus
+67,Ogi,10C,,94,,,94.0,Lulus dengan predikat sangat baik
+68,Qori,10B,,,,,,Lulus
+69,Galih,10A,,,,,,Lulus
+70,Tuti,10B,,96,87,,91.5,Lulus dengan predikat sangat baik
+71,Intan,10B,70,70,89,,76.33333333333333,Lulus
+72,Eni,10B,,,,90,90.0,Lulus dengan predikat sangat baik
+73,Rara,10B,78,,88,75,80.33333333333333,Lulus
+74,Rara,10B,89,82,,,85.5,Lulus
+75,Nina,10C,70,79,77,,75.33333333333333,Lulus
+76,Lala,10C,97,,,,97.0,Lulus dengan predikat sangat baik
+77,Putri,10C,,,82,,82.0,Lulus
+78,Santi,10A,,,76,,76.0,Lulus
+79,Fani,10A,,,85,,85.0,Lulus
+80,Ogi,10C,86,,,81,83.5,Lulus
+81,Fani,10A,,,84,,84.0,Lulus
+82,Fani,10B,,,91,79,85.0,Lulus
+83,Hani,10B,,99,,94,96.5,Lulus dengan predikat sangat baik
+84,Cici,10C,86,,89,92,89.0,Lulus
+85,Eni,10B,89,,,82,85.5,Lulus
+86,Mamat,10A,82,82,96,,86.66666666666667,Lulus
+87,Budi,10B,94,81,89,81,86.25,Lulus
+88,Ogi,10A,81,95,,73,83.0,Lulus
+89,Joko,10C,82,83,,,82.5,Lulus
+90,Hani,10A,,93,,,93.0,Lulus dengan predikat sangat baik
+91,Intan,10B,,77,,,77.0,Lulus
+92,Intan,10C,76,,,87,81.5,Lulus
+93,Hani,10A,99,,86,,92.5,Lulus dengan predikat sangat baik
+94,Andi,10B,,,,,,Lulus
+95,Hani,10C,70,84,76,93,80.75,Lulus
+96,Qori,10B,,,,,,Lulus
+97,Dedi,10C,,,,74,74.0,Lulus
+98,Andi,10C,,,91,96,93.5,Lulus dengan predikat sangat baik
+99,Nina,10C,89,74,,95,86.0,Lulus
+100,Kartika,10A,,92,78,,85.0,Lulus
