@@ -1,4 +1,5 @@
 import pandas as pd
+import seaborn as sns
 import matplotlib.pyplot as plt
 
 file_path = "21-11-24-data.csv"
@@ -20,10 +21,9 @@ if 'rata_rata_nilai' not in data.columns:
 print("Kolom 'rata_rata_nilai' telah ditambahkan ke dalam data\n")
 print(data.isna().sum())
 
-
-# Histogram
+# Histogram menggunakan Seaborn
 plt.figure(figsize=(10, 6))
-plt.hist(data['rata_rata_nilai'], bins=10, color='skyblue', edgecolor='black')
+sns.histplot(data['rata_rata_nilai'], bins=10, kde=True, color='skyblue', edgecolor='black')
 plt.title('Distribusi Nilai Rata-Rata Siswa')
 plt.xlabel('Rata-Rata Nilai')
 plt.ylabel('Frekuensi')
@@ -34,7 +34,7 @@ print("Histogram distribusi nilai rata-rata siswa telah ditampilkan\n")
 # Grafik Batang
 mean_by_class = data.groupby('kelas')['rata_rata_nilai'].mean()
 plt.figure(figsize=(12, 6))
-mean_by_class.plot(kind='bar', color='orange', edgecolor='black')
+sns.barplot(x=mean_by_class.index, y=mean_by_class.values, palette='Oranges')
 plt.title('Perbandingan Rata-Rata Nilai Antar Kelas')
 plt.xlabel('Kelas')
 plt.ylabel('Rata-Rata Nilai')
@@ -43,7 +43,6 @@ plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.tight_layout()
 plt.show()
 print("Grafik batang perbandingan rata-rata nilai antar kelas telah ditampilkan\n")
-
 
 # Ekspor
 new_file = "21-11-24-data-new.csv"
